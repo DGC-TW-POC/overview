@@ -8,3 +8,5 @@ dgca-issuace-service為最重要的一環，主要功能`發證`。
 - 安裝`dgca-issuance-web` [安裝指南](https://github.com/DGC-TW-POC/dgca-issuance-web-setup-guide)
 ## 第三步 安裝`dgca-wallet-app-android`
 - 安裝`dgca-wallet-app-android` [安裝指南](https://github.com/DGC-TW-POC/dgca-wallet-android-app-setup-guide)
+## 第四步 安裝`dgca-verifier-app-android`
+- 安裝`dgca-verifier-app-android` [安裝指南](https://github.com/DGC-TW-POC/dgca-verifier-android-app-setup-guide)
